@@ -16,13 +16,14 @@ The objective of the selected problem and the whole project process is about sup
 
 --Tools and Technoligies
 
-Language - Python 
+•	Language - Python 
 
-IDE - Jupyter, Visual Studio Code 
+•	IDE - Jupyter, Visual Studio Code 
 
-Framework - Flask 
+•	Framework - Flask 
 
-Server/Hosting - Heroku 
+•	Server/Hosting - Heroku 
+
 
 Following are the steps that followed.
 
