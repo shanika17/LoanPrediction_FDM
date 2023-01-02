@@ -1,6 +1,6 @@
 # LoanPrediction_FDM
 
-Web application : 
+Web application : https://loan-prediction-ml-olenzro.herokuapp.com/
 
 Final Report : [FDM_Final_Report_Group22.pdf](https://github.com/shanika17/LoanPrediction_FDM/files/10332003/FDM_Final_Report_Group22.pdf)
 
